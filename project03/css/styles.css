@@ -1,0 +1,167 @@
+/* COLOURS USED
+grey: #D1C498 
+red: #DB0B0F
+green: #09A63F
+yellow: #E8C62F
+blue: #000BAC */
+body {
+    font-family: 'Roboto';
+    color: #000BAC;
+    background-image: url('../images/blades.png');
+}
+
+h3 {
+    text-align: center;
+}
+
+.education {
+    padding-bottom: 5px;
+}
+.jobs {
+    padding-bottom: 5px;
+}
+
+.toolstag {
+    font-size: 20px;
+    padding: 10px;
+}
+
+.flex-menu-container {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 50px;
+}
+
+.nav {
+    display: flex;
+    width: 50%;
+    background: #D1C498;
+    text-align: center;
+}
+
+.nav-item {
+    background: #D1C498;
+
+}
+
+.nav-link {
+    background: #D1C498;
+    display: block;
+    padding: 8px 12px;
+}
+
+.container {
+    background: #D1C498;
+    width: 85%;
+    margin: 0 auto;
+    position: relative;
+}
+
+.logo {
+    position: relative;
+}
+
+.indexparagraph {
+    font-size: 20px;
+    font-weight: bold;
+    text-decoration: overline;
+    text-decoration-style: dotted;
+    text-shadow: 2px 3px #E8C62F;
+
+}
+
+.sunflower {
+    width: 400px;
+    position: relative;
+    margin-left: 60px;
+}
+
+.nancho {
+    width: 400px;
+    position: relative;
+    margin-left: 60px;
+}
+
+.video-fluid {
+    width: 100%;
+    height: auto;
+}
+
+.spacediv {
+    height: 50px;
+}
+
+.indeximg {
+    width: 1000px;
+}
+
+h1,
+h2,
+h3 {
+    color: #000BAC;
+    font-family: 'Raleway';
+    text-decoration: underline;
+    font-size: 2.5rem;
+}
+span {
+    font-family: 'Lobster';
+    color: #ffffffe0;
+}
+
+footer {
+    display: flex;
+    flex-direction: column;
+    background: #D1C498;
+    /* width: 100% */
+}
+ul {
+    list-style: none;
+}
+tr,
+th {
+    padding: 25px;
+}
+td {
+    padding: 5px;
+}
+table {
+    text-decoration: overline;
+    text-decoration-style: dotted;
+    font-weight: bold;
+    text-shadow: 2px 3px #E8C62F;
+    font-size: 20.5px;
+   margin: 30px;
+}
+
+.toolstag{
+    text-align: center;
+}
+p {
+    font-weight: bold;
+    text-decoration: overline;
+    text-decoration-style: dotted;
+    text-shadow: 2px 3px #E8C62F;
+}
+.resume-container {
+    position: relative;
+    width: 100%;
+}
+.imagefiller1,
+.imagefiller2 {
+    width: 400px;
+}
+.imagefiller1 {
+    float: right;
+    margin-bottom: 5px;
+
+}
+.imagefiller2 {
+  margin-bottom: 5px;
+  margin-top: 20px;
+
+}
+.copyrightfiller {
+    display: inline;
+    position: relative;
+    padding: 5px;
+}
